@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <h1>
+        Мой любимый мультфильм - В поисках Немо
+    </h1>
+    <table BORDER="1" ALIGN=LEFT VALIGN = TOP
+    WIDTH = 300 HEIGHT = 370 BEGOLOR = RED>
+        <thead>
+        <tr>
+            <th> Хорший герой</th>
+            <th>Плохой герой</th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th> Дорри</th>
+                <th>Акула</th>
+            </tr>
+            <tr>
+                <th> Немо</th>
+                <th>Зубной</th>
+            </tr>
+            <tr>
+                <th> Марлин</th>
+                <th>Дарла</th>
+            </tr>
+            <tr>
+            </tr>
+        </tbody>
+    </table>
+    <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/2/29/Finding_Nemo.jpg/274px-Finding_Nemo.jpg" >
+</body>
+</html>
