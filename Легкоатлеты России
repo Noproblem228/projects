@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <title>Document</title>
+
+        
+    </head>
+    <body> 
+        <h1>
+            Легкоатлеты России
+        </h1>
+            <ul> 
+                <li> <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftass.ru%2Finterviews%2F20921743&psig=AOvVaw3z9mZqwDaqSXKRBINtDf36&ust=1731328673441000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi_7YXk0YkDFQAAAAAdAAAAABAE">Константит Крылов</a>
+
+                <li> Кристина Макаренко
+                <li> Савелий Савлуков
+                <li> Артем Макаренко
+                <li> Серофим Солодовников
+            </ul>
+    </body>
+    </html>
