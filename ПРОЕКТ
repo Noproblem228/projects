@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <title>Document</title>
+        
+    </head>
+    <body> 
+        <h1>
+            Мои топ 5 Легкоатлетов России
+        </h1>
+            <ul > 
+                <h2>
+                <li> 
+                <A HREF = "https://photobooth.cdn.sports.ru/preset/post/2/d0/a994ad1f54d2289065fb4fcd6d629.jpeg">Кристина Макаренко</A>
+                 — российская легкоатлетка, специализируется в беге на 100 метров. Девятикратная чемпионка России, семикратная чемпионка России в помещении.
+                <li>
+                <A HREF = "https://img.championat.com/s/1350x900/news/big/x/c/rossijskij-legkoatlet-pobil-rekord-evropy_17046334801652175026.jpg">Савелий Савлуков</A>
+                — российский легкоатлет, специализирующийся на беге на 400 метров. Многократный чемпион России. Мастер спорта международного класса.
+                <li>
+                <A HREF = "https://rusathletics.info/wp-content/uploads/2019/07/DSC_0477-1.jpg">Артем Макаренко</A>
+                — российский легкоатлет. Чемпион России и Игр БРИКС. Специализируется на многоборье и барьерном беге.
+                <li> 
+                    <A HREF = "https://avatars.mds.yandex.net/i?id=77bc0995192c2d55a1b2d7de68b0b10bc59efcac-10415001-images-thumbs&n=13">Серофим Солодовников</A>
+                    — российский легкоатлет, специализирующийся на беге на 400 метров. Многократный чемпион России. Мастер спорта международного класса.
+                <li>
+                    <A HREF = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcska.ru%2Fnews%2F27753&psig=AOvVaw1bfMt8PUn68_sMlY3PbVmb&ust=1732535280677000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDJhoLz9IkDFQAAAAAdAAAAABAE"> Светлана Аплачкина</A>
+                    — российская легкоатлетка, специалистка по бегу на средние и длинные дистанции, кроссу и марафону. 
+                </h2> 
+            </ul>
+             
+
+    </body>
+    <nav>
+        <ul>
+        <li><a HREF = "JO.html"><big><big><big> Главная</a></li></big></big></big>
+        </ul>
+    </nav>
+    </html>
