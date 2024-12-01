@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <title>Document</title>
+        
+    </head>
+    <body style="background-color: rgb(221, 222, 236);"> 
+        <h1>
+            Мои топ 5 Легкоатлетов России
+        </h1>
+            <ul > 
+                <h2>
+                <li> 
+                <A HREF = "https://photobooth.cdn.sports.ru/preset/post/2/d0/a994ad1f54d2289065fb4fcd6d629.jpeg">Кристина Макаренко</A>
+                 — российская легкоатлетка, специализируется в беге на 100 метров. Девятикратная чемпионка России, семикратная чемпионка России в помещении.
+                <li>
+                <A HREF = "https://img.championat.com/s/1350x900/news/big/x/c/rossijskij-legkoatlet-pobil-rekord-evropy_17046334801652175026.jpg">Савелий Савлуков</A>
+                — российский легкоатлет, специализирующийся на беге на 400 метров. Многократный чемпион России. Мастер спорта международного класса.
+                <li>
+                <A HREF = "https://rusathletics.info/wp-content/uploads/2019/07/DSC_0477-1.jpg">Артем Макаренко</A>
+                — российский легкоатлет. Чемпион России и Игр БРИКС. Специализируется на многоборье и барьерном беге.
+                <li> 
+                    <A HREF = "https://avatars.mds.yandex.net/i?id=77bc0995192c2d55a1b2d7de68b0b10bc59efcac-10415001-images-thumbs&n=13">Серофим Солодовников</A>
+                    — российский легкоатлет, специализирующийся на беге на 400 метров. Многократный чемпион России. Мастер спорта международного класса.
+                <li>
+                    <A HREF = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcska.ru%2Fnews%2F27753&psig=AOvVaw1bfMt8PUn68_sMlY3PbVmb&ust=1732535280677000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDJhoLz9IkDFQAAAAAdAAAAABAE"> Светлана Аплачкина</A>
+                    — российская легкоатлетка, специалистка по бегу на средние и длинные дистанции, кроссу и марафону. 
+                </h2> 
+            </ul>
+             
+
+    </body>
+         <h1>
+             Действующие мировые рекорды на дистанциях до 1 мили (Мужчины)
+        </h1>
+    <body>
+        <thead>
+            <TABLE BORDER = 1, ALIGN = center , WIDTH = 1000 , HEIGHT = 50>
+            <tr>
+                <th>Дистанция</th>
+                <th>Время</th>
+                <th>Имя Фамилия</th>
+            </tr>
+        </TABLE>
+        </thead>
+        <tbody>
+            <TABLE BORDER = 1, ALIGN = center , WIDTH = 1000 , HEIGHT = 500>
+            <tr>
+                <TH style="background-color: rgb(114, 144, 234);">100 метров</TH>
+                <TD style="background-color: rgb(121, 127, 145);"> 9,58 (+0,9 м/с)</TD>
+                <TD style="background-color: rgb(121, 127, 145);"> Усэйн Болт</TD>
+            </tr>
+            <tr>
+                <TH style="background-color: rgb(114, 144, 234);">200 метров</TH>
+                <TD style="background-color: rgb(121, 127, 145);"> 19,19 (-0,3 м/с)</TD>
+                <TD style="background-color: rgb(121, 127, 145);"> Усэйн Болт</TD>
+            </tr>
+            <tr>
+                <TH style="background-color: rgb(114, 144, 234);"> 400 метров</TH>
+                <TD style="background-color: rgb(121, 127, 145);" > 43,04(-0,3 м/с)</TD>
+                <TD style="background-color: rgb(121, 127, 145);"> Уэйд Никерк</TD>
+            </tr>
+            <tr>
+                <TH style="background-color: rgb(114, 144, 234);"> 800 метров</TH>
+                <TD style="background-color: rgb(121, 127, 145);"> 1:40,91(-1,3 м/с)</TD>
+                <TD style="background-color: rgb(121, 127, 145);"> Дэвид Рудиша</TD>
+            </tr>
+            <tr>
+                <TH style="background-color: rgb(114, 144, 234);"> 1000 метров</TH>
+                <TD style="background-color: rgb(121, 127, 145);" > 2:11,96(-1,3 м/с)</TD>
+                <TD style="background-color: rgb(121, 127, 145);"> Ной Нгени</TD>
+            </tr>
+            <tr>
+                <TH style="background-color: rgb(114, 144, 234);"> 1500 метров </TH>
+                <TD style="background-color: rgb(121, 127, 145);" > 3:26,00(-1,3 м/с)</TD>
+                <TD style="background-color: rgb(121, 127, 145);"> Хишам Эль-Герруж</TD>
+            </tr>
+            <tr>
+                <TH style="background-color: rgb(114, 144, 234);"> 1 миля (1609 м) </TH>
+                <TD style="background-color: rgb(121, 127, 145);"> 3:43,13(-1,3 м/с)</TD>
+                <TD style="background-color: rgb(121, 127, 145);"> Хишам Эль-Герруж</TD>
+            </tr>
+        </tbody>
+        </TABLE>
+        <h1>
+            Действующие мировые рекорды на дистанциях до 1 мили (Женщины)
+       </h1>
+   <body>
+    <thead>
+        <TABLE BORDER = 1, ALIGN = center , WIDTH = 1000 , HEIGHT = 50>
+        <tr>
+            <th>Дистанция</th>
+            <th>Время</th>
+            <th>Имя Фамилия</th>
+        </tr>
+    </TABLE>
+    </thead>
+    <tbody>
+        <TABLE BORDER = 1, ALIGN = center , WIDTH = 1000 , HEIGHT = 500>
+        <tr>
+           <TH style="background-color: rgb(228, 114, 234);">100 метров</TH>
+           <TD style="background-color: rgb(121, 127, 145);"> 10,49 с(+0,9 м/с)</TD>
+           <TD style="background-color: rgb(121, 127, 145);"> Флоренс Гриффит-Джойнер</TD>
+        </tr>
+        <tr>
+
+           <TH style="background-color: rgb(228, 114, 234);">200 метров</TH>
+           <TD style="background-color: rgb(121, 127, 145);">	21,34(-0,3 м/с)</TD>
+           <TD style="background-color: rgb(121, 127, 145);"> Флоренс Гриффит-Джойнер</TD>
+        </tr>
+        <tr>
+           <TH style="background-color: rgb(228, 114, 234);" > 400 метров</TH>
+           <TD style="background-color: rgb(121, 127, 145);"> 47,60 с(-0,3 м/с)</TD>
+           <TD style="background-color: rgb(121, 127, 145);"> Марита Кох</TD>
+        </tr>
+        <tr>
+           <TH style="background-color: rgb(228, 114, 234);" > 800 метров</TH>
+           <TD style="background-color: rgb(121, 127, 145);"> 1.53,28с(-1,3 м/с)</TD>
+           <TD style="background-color: rgb(121, 127, 145);"> Ярмила Кратохвилова</TD>
+        </tr>
+        <tr>
+           <TH style="background-color: rgb(228, 114, 234);"> 1000 метров</TH>
+           <TD style="background-color: rgb(121, 127, 145);"> 2.28,98(-1,3 м/с)</TD>
+           <TD style="background-color: rgb(121, 127, 145);"> Светлана Мастеркова</TD>
+        </tr>
+        <tr>
+           <TH style="background-color: rgb(228, 114, 234);"> 1500 метров </TH>
+           <TD style="background-color: rgb(121, 127, 145);"> 3.49,04(-1,3 м/с)</TD>
+           <TD style="background-color: rgb(121, 127, 145);"> Фейт Кипьегон</TD>
+        </tr>
+        <tr>
+           <TH style="background-color: rgb(228, 114, 234);" > 1 миля (1609 м) </TH>
+           <TD style="background-color: rgb(121, 127, 145);"> 4.07,64(-1,3 м/с)</TD>
+           <TD style="background-color: rgb(121, 127, 145);"> Фейт Кипьегон</TD>
+        </tr>
+       </TABLE>   
+       <nav>
+        <ul>
+        <li><a HREF = "JO.html"><big><big><big> Мои достижения</a></li></big></big></big>
+        </ul>
+    </nav>
+    </html>
+    </body>
