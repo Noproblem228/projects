@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Плак.css" >
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Инфа о театре</a></li>
+                <li><a href="#">Афишка</a></li>
+                <li class="active" ><a href ="#">Купить билеты</a></li>
+                <li><a href="#">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+
+</body>
+</html>
+###
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 900px;
+}
+.item{
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 1px 3 px rgba(0, 0, 0, 1);
+    padding: 20px;
+    transition: all 0.2s ease;
+}
+.item:hover{
+    transform: scale(1.05);
+}
+.item h2{
+    margin-bottom: 5px;
+}
