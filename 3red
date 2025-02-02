@@ -1,0 +1,65 @@
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Плак.css" >
+</head>
+<body>
+    <div class="border">
+    <nav>
+        <ul>
+            <h1 >Наш фирменный десерт</h1>
+            <h2 >Шоколадный торт с орехами - настоящий шедевр нашей кухни!</h2>
+            <h3 >Ингредиенты: тёмный шоколад, орехи, сливки, сахар</h3>
+        </ul>
+    </div>
+    </header>
+
+</body>
+</html>
+
+css
+h1{
+    font-size: 50px;
+    text-align: left;
+    color: rgb(100, 50, 1);
+}
+h2{
+    font-size: 20px;
+    text-align: left;
+    color: rgb(212, 148, 83);
+}
+h3{
+    font-size: 20px;
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
+.border{
+    border: 1px solid #e67d7d;
+    background-color: bisque;
+    border-width: 5px;
+
+}
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 900px;
+}
+.item{
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 1px 3 px rgba(0, 0, 0, 1);
+    padding: 20px;
+    transition: all 0.2s ease;
+}
+.item:hover{
+    transform: scale(1.05);
+}
+.item {
+    margin-bottom: 5px;
+}
